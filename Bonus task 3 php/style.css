@@ -1,0 +1,19 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#dataForm
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+    border: 2px solid #ddd;
+}
+#dataForm table tr>*
+{
+    padding: 5px;
+}
